@@ -1,6 +1,11 @@
 # seeeasynvr
 
+!(https://github.com/poptix/seeeasynvr/blob/master/images/PXL_20240119_220031085.jpg)
+
+
 I purchased a couple of these in December 2023 because the price was right and I just needed a device capable of reliably displaying an RTSP stream on a TV.
+
+https://www.aliexpress.us/item/3256805259485409.html
 
 ## console
 
